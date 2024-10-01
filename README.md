@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @alexandrerahir
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Salut, je suis Alexandre Rahir !
 
-<!---
-alexandrerahir/alexandrerahir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## À propos de moi
+
+- 🧑‍💻 Je m'appelle **Alexandre Rahir**, un passionné de technologie et d'informatique.
+- 🎓 Actuellement étudiant en **analyse et programmation**.
+- 🎂 J'ai **23 ans** et je vis à **Namur, Belgique**.
+- 💻 Mes langages de programmation préférés incluent **Python**, **PHP**, et **Java**.
+
+Je suis toujours à la recherche de nouvelles opportunités d'apprendre et de perfectionner mes compétences dans le domaine du développement de logiciels.
+
+---
+
+## 🔧 Langages et technologies
+
+- **Python**
+- **PHP**
+- **Java**
+
+---
+
+## 📫 Me contacter
+
+- **Email** : [votre.email@example.com](mailto:votre.email@example.com)  
+- **LinkedIn** : [VotreProfilLinkedIn](https://www.linkedin.com/in/votreprofil)  
