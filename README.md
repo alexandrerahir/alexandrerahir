@@ -1,25 +1,22 @@
-# 👋 Salut, je suis Alexandre Rahir !
+### 🌍 À propos de moi :
 
-## À propos de moi
+- Je m'appelle **Alexandre Rahir**, un étudiant passionné par la **programmation** et la **technologie**.
+- J'ai **23 ans** et je suis basé à **Namur, Belgique**.
+- Actuellement, je me forme en tant qu'**analyste programmeur**.
 
-- 🧑‍💻 Je m'appelle **Alexandre Rahir**, un passionné de technologie et d'informatique.
-- 🎓 Actuellement étudiant en **analyse et programmation**.
-- 🎂 J'ai **23 ans** et je vis à **Namur, Belgique**.
-- 💻 Mes langages de programmation préférés incluent **Python**, **PHP**, et **Java**.
+### 💻 Mes compétences techniques :
 
-Je suis toujours à la recherche de nouvelles opportunités d'apprendre et de perfectionner mes compétences dans le domaine du développement de logiciels.
+- Langages que je maîtrise :
+  - **Python**
+  - **PHP**
+  - **Java**
+  
 
----
+### 🚀 Projets :
 
-## 🔧 Langages et technologies
+- [Bientôt](#) : En cours de développement
 
-- **Python**
-- **PHP**
-- **Java**
+### 📫 Comment me contacter :
 
----
-
-## 📫 Me contacter
-
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)  
-- **LinkedIn** : [VotreProfilLinkedIn](https://www.linkedin.com/in/votreprofil)  
+- **Email** : [contact@alexandrerahir.be](mailto:contact@alexandrerahir.be)
+- **LinkedIn** : [alexandrerahir](https://www.linkedin.com/in/alexandrerahir)
